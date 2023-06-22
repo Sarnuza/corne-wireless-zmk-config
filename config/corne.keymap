@@ -14,7 +14,7 @@
             compatible = "zmk,behavior-macro";
             label = "AE_LOWER";
             #binding-cells = <0>;
-            bindings = <&kp KP_N1 &kp KP_NUMBER_3 &kp KP_NUMBER_2>;
+            bindings = <&kp LEFT_ALT &kp KP_N1 &kp KP_NUMBER_3 &kp KP_NUMBER_2>;
         };
     };
 
